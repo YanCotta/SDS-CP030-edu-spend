@@ -1,4 +1,0 @@
-# Contains all libraries that are needed for this project
-scikit-learn
-streamlit
-jupyter

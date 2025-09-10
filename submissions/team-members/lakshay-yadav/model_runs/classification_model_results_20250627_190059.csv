@@ -1,4 +1,0 @@
-Model,Accuracy,F1 Score,Run ID,Run Name,Experiment Name,Best_Model
-Gradient Boosting,0.9230769230769231,0.9238987047810578,4eb18a176d0c4c24907e09a50fc649e2,Gradient Boosting Classifier Tuned,EduSpend_Predictive_Models,False
-XGBoost,0.945054945054945,0.9452688338915967,385dbbb589cc4de1afa11e3a76a7768c,XGBoost Classifier Tuned,EduSpend_Predictive_Models,True
-Random Forest,0.9340659340659341,0.9342773285489777,072560e5d8eb47fb95e31df2c78e4c5c,Random Forest Classifier Tuned,EduSpend_Predictive_Models,False

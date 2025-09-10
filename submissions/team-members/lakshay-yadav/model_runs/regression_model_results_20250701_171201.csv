@@ -1,4 +1,0 @@
-Model,MAE,RMSE,R2,Run ID,Run Name,Experiment Name,Best_Model
-Gradient Boosting,368.0432940545197,531.9330415920781,0.9993475185274043,2fcf6fe0cbc647589dec472628760810,Gradient Boosting Regressor Tuned,EduSpend_Predictive_Models,True
-XGBoost,371.8396301269531,539.3236215390533,0.9993292689323425,2f408cf84ee24232a952e2219be3b4ee,XGBoost Regressor Tuned,EduSpend_Predictive_Models,False
-Random Forest,441.8675091575091,671.1582379483499,0.9989612665937915,6922280629f744febbe1a5d7cde41a6f,Random Forest Regressor Tuned,EduSpend_Predictive_Models,False
