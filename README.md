@@ -6,7 +6,7 @@ This project is a collaborative initiative brought to you by SuperDataScience, a
 To contribute to this project, please follow the guidelines avilable in our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 
--> shared rep with all the team members work: https://github.com/YanCotta/SDS-CP030-edu-spend
+-> shared rep with all the team members work: https://github.com/SuperDataScience-Community-Projects/SDS-CP030-edu-spend
 
 
 # Project Scope of Works:
